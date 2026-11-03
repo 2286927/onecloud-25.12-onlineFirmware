@@ -182,5 +182,4 @@ cat /etc/oc-version
 ## 八、相关信息
 
 - 上游系统：[immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt)（openwrt-25.12 分支）
-- 编译流程：私有仓库，需要了解可联系作者
 - 问题反馈：请在本仓库提 Issue，附上 `upgrade --check` 的输出和现象描述
